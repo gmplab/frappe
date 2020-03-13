@@ -30,7 +30,9 @@
 
 
 
-Full-stack web application framework that uses Python and MariaDB on the server side and a tightly integrated client side library. Built for [ERPNext Chinese](https://corp.gmplab.com/blog/erpnext)
+Full-stack web application framework that uses Python and MariaDB on the server side and a tightly integrated client side library. 
+
+Forked for [ERPNext Chinese](https://corp.gmplab.com/blog/erpnext) only.
 
 ### Table of Contents
 * [Installation](#installation)
